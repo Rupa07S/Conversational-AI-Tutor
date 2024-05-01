@@ -32,7 +32,4 @@ The app will generate a response using the Gemini model and display it in the ap
 
 This app is built using Streamlit, a Python library for creating interactive web apps for data science and machine learning projects. The Gemini model from Google Generative AI is used for generating responses to user queries.
 
-**Contributions**
-
-Contributions to the development and improvement of this app are welcome! Feel free to submit pull requests or raise issues if you encounter any bugs or have suggestions for enhancements.
 
